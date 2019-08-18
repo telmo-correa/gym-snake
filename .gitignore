@@ -1,0 +1,5 @@
+.idea
+gym_snake.egg-info
+gym_snake/__pycache__/
+gym_snake/envs/__pycache__/
+__pycache__/
