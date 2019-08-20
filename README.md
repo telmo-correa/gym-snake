@@ -5,8 +5,8 @@
 This is a set of OpenAI Gym environments representing variants on the classic Snake game.
 
 <p align="center">
-<img src="https://github.com/telmo-correa/gym-snake/raw/master/figures/Snake-8x8-v0.png"/>
-<img src="https://github.com/telmo-correa/gym-snake/raw/master/figures/Snake-Hex-8x8-v0.png"/>
+<img src="https://github.com/telmo-correa/gym-snake/raw/master/figures/Snake-8x8-v0.gif"/>
+<img src="https://github.com/telmo-correa/gym-snake/raw/master/figures/Snake-Hex-8x8-v0.gif"/>
 </p>
 
 Requirements:
